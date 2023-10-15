@@ -1,2 +1,2 @@
-# scanner
+# qrscanner
 Created with CodeSandbox
